@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1701899430 source:b:\threadss\threads\main.cpp
+	<iostream>
+	<fstream>
+	"pthread.h"
+	<chrono>
+	<conio.h>
+
+1533721660 b:\threadss\threads\pthreads4w-code-07053a521b0a9deb6db2a649cde1f828f2eb1f4f\pthread.h
+	<_ptw32.h>
+	<time.h>
+	<sched.h>
+	<sys/types.h>
+
+1533721660 b:\threadss\threads\pthreads4w-code-07053a521b0a9deb6db2a649cde1f828f2eb1f4f\_ptw32.h
+	<errno.h>
+	"need_errno.h"
+	<stdint.h>
+	<winsock.h>
+
+1533721660 b:\threadss\threads\pthreads4w-code-07053a521b0a9deb6db2a649cde1f828f2eb1f4f\need_errno.h
+
+1533721660 b:\threadss\threads\pthreads4w-code-07053a521b0a9deb6db2a649cde1f828f2eb1f4f\sched.h
+	<_ptw32.h>
+	<time.h>
+
